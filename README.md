@@ -1,4 +1,4 @@
-# performance_at_greentech_innovations
+# performance_at_greentech_innovations using power BI
 
 Analyze GreenTech Innovation's HR dashboard to monitor and visualize employee performance, engagement, and growth, driving insightful workforce development
 
